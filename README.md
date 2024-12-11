@@ -28,7 +28,7 @@ A classic **Fifteen Puzzle** game implemented with a graphical user interface in
 
 Here’s a preview of the Fifteen Puzzle game interface:
 
-![Fifteen Puzzle Game Preview](src/main/resources/images/game_preview.png)
+<img src="src/main/resources/images/game_preview.png" alt="Fifteen Puzzle Game Preview" width="333">
 
 ## Resources
 
